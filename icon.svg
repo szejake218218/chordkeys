@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="ChordKeys">
+  <rect width="512" height="512" rx="112" fill="#0c0d0f"/>
+  <rect x="80"  y="128" width="96" height="272" rx="24" fill="#e8a33d"/>
+  <rect x="208" y="128" width="96" height="272" rx="24" fill="#eef1f5"/>
+  <rect x="336" y="128" width="96" height="272" rx="24" fill="#46b3a4"/>
+  <rect x="152" y="128" width="56" height="168" rx="14" fill="#0c0d0f"/>
+  <rect x="280" y="128" width="56" height="168" rx="14" fill="#0c0d0f"/>
+</svg>

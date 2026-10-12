@@ -1,0 +1,15 @@
+{
+  "name": "ChordKeys — piano chord finder, player & trainer",
+  "short_name": "ChordKeys",
+  "description": "Type any chord symbol and see exactly which piano keys to press. Inversions, note names, key function, progressions and an ear-training quiz.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0c0d0f",
+  "theme_color": "#0c0d0f",
+  "categories": ["education", "music", "utilities"],
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
